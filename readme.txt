@@ -10,3 +10,4 @@ creating a new branch is quick and simple.
 >>>>>>> feature1
 
 add dev2222.1020
+stash bug issue-101 ok.
